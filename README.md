@@ -5,7 +5,7 @@
 <h3 align="center">My name is Valentin Georgiev and I am passionate backend developer from Bulgaria,</h3>
 <p align="center">who likes functional programming, clean and reusable code and performance. I also always look for the simplest possible solution. </p>
 <hr>
-- 🌱 I’m currently learning <a href="https://softuni.bg/modules/133/devops-for-developers/1526" target="_blank">DevOps for Developers</a>, Django Web Framework 
+- 🌱 I’m currently learning <a href="https://softuni.bg/modules/133/devops-for-developers/1526" target="_blank">DevOps for Developers</a> and Django Web Framework 
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgievValentin](https://github.com/GeorgievValentin)
 
